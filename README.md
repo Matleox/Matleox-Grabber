@@ -3,7 +3,7 @@
 </h1>
 <p align= "center">
    <kbd>
-   <img  src="https://cdn.discordapp.com/attachments/1138141791766458509/1147568738665779322/IMG_9161-removebg-preview.png">
+   <img  src="https://cdn.discordapp.com/attachments/973337617057869825/1186683650302038056/68650899.jpg">
    </kbd><br><br>
 
 
