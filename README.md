@@ -1,5 +1,5 @@
 <h1 align="center">
-   Waltuhium Grabber
+   Matleox Grabber
 </h1>
 <p align= "center">
    <kbd>
@@ -126,20 +126,9 @@ waltuhium
 
 # Images
 <p align= "center">
-   <kbd>
-   <img  src="https://cdn.discordapp.com/attachments/1138141791766458509/1147625887731286076/Ekran_Goruntusu_2018.png">
-   </kbd><br><br>
-   <p align= "center">
-   <kbd>
-   <img  src="https://cdn.discordapp.com/attachments/1138141791766458509/1147627971318915142/Ekran_Goruntusu_2020.png">
-   </kbd><br><br>
-   <p align= "center">
+
    <kbd>
    <img  src="https://cdn.discordapp.com/attachments/1138141791766458509/1149804139568701511/262481781-0a070d7d-59ad-43f8-9478-4d84f8658177.png">
-   </kbd><br><br>
-      <p align= "center">
-   <kbd>
-   <img  src="https://cdn.discordapp.com/attachments/1138141791766458509/1147628547721138176/Ekran_Goruntusu_2021.png">
    </kbd><br><br>
          
 **Supports:** *Windows 8+ (Tested on Windows 10).*
