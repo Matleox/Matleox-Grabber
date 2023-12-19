@@ -20,7 +20,7 @@
    <br>
 
 <p align="center">
-  Telegram server: https://t.me/waltuhium
+  Telegram server: https://t.me/johnwatson02
  </p>
    
    <br>
